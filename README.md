@@ -30,7 +30,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/loganm33/app-t">
-    <img src="doc/assets/logo.png" alt="Logo" width="80" height="80">
+    <img src="doc/assets/icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">App Template</h3>
