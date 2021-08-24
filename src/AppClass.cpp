@@ -1,10 +1,10 @@
 #include "AppClass.h"
 
-/** Special */
+/* Special */
 AppClass::AppClass()
     : attr_(0) {}
 
-/** Accessors */
+/* Accessors */
 const int &AppClass::attr() const { return attr_; }
 
 void AppClass::setAttr(const int &newAttr) { attr_ = newAttr; }
