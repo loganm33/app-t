@@ -1,12 +1,11 @@
-#include "mainwindow.hpp"
+#include "AppClass.h"
 
-#include <QApplication>
+#include <iostream>
 
 int main(int argc, char *argv[]) {
-    QApplication a(argc, argv);
-    a.setOrganizationName("L3harris");
-    a.setApplicationName("RDT");
-    MainWindow w;
-    w.show();
-    return a.exec();
+    std::cout << "Hello, world" << std::endl;
+    AppClass a;
+    a.setAttr(2);
+    std::cout << "a.attr() = " << a.attr() << std::endl;
+    return 0;
 }
