@@ -7,4 +7,4 @@ AppClass::AppClass()
 /** Accessors */
 const int &AppClass::attr() const { return attr_; }
 
-void AppClass::setAttr(const int &newAttr) { attr_ = newAttr; }
+void AppClass::set_attr(const int &newAttr) { attr_ = newAttr; }

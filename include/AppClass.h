@@ -9,8 +9,8 @@ public:
     ~AppClass() = default;
 /** Accessors */
 public:
-    const int &attr() const;
-    void setAttr(const int &newAttr);
+    [[nodiscard]] const int &attr() const;
+    void set_attr(const int &newAttr);
 /** Attributes */
 private:
     int attr_;
