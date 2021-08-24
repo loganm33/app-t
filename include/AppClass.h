@@ -1,14 +1,17 @@
 #pragma once
 
 class AppClass {
-public:  /*< Special */
+/** Special */
+public:
     AppClass();
     AppClass(const AppClass &other) = default;
     AppClass(AppClass &&other) noexcept = default;
     ~AppClass() = default;
-public:  /*< Accessors */
+/** Accessors */
+public:
     const int &attr() const;
     void setAttr(const int &newAttr);
-private:  /**< Attributes */
+/** Attributes */
+private:
     int attr_;
 };
