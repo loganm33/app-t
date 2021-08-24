@@ -6,6 +6,9 @@
 *.vscode*
 *.idea*
 
+# Windows
+desktop.ini
+
 # Compiled Object files
 *.slo
 *.lo
