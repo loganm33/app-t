@@ -1,12 +1,3 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -27,16 +18,21 @@
 
 
 <!-- PROJECT LOGO -->
+<!--
 <br />
 <p align="center">
   <a href="https://github.com/loganm33/app-t">
-    <img src="doc/assets/icon.png" alt="Logo" width="80" height="80">
+    <img src="doc/assets/icon.png" alt="Logo" width="32" height="32">
   </a>
+</p>
+-->
 
-  <h3 align="center">App Template</h3>
 
-  <p align="center">
-    An awesome README template to jumpstart your projects!
+
+<!-- PROJECT TITLE -->
+<h1 align="center">App Template</h1>
+<p align="center">
+    Brief app description or summary
     <br />
     <a href="https://github.com/loganm33/app-t"><strong>Explore the docs »</strong></a>
     <br />
@@ -46,7 +42,6 @@
     <a href="https://github.com/loganm33/app-t">Report Bug</a>
     ·
     <a href="https://github.com/loganm33/app-t/issues">Request Feature</a>
-  </p>
 </p>
 
 
@@ -82,7 +77,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -194,8 +189,6 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
-
-
 
 
 
