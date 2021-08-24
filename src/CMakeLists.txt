@@ -1,0 +1,12 @@
+include_directories(${PROJECT_SOURCE_DIR}/include)
+add_library(app_lib
+            CalPlotData.cpp
+            mainwindow.cpp
+            mainwindow.ui
+            PlotType.cpp
+            plotwindow.cpp
+            plotwindow.ui
+            qcustomplot.cpp
+            Subplot.cpp
+            TextParse.cpp
+)
